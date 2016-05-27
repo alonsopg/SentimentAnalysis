@@ -1,2 +1,4 @@
 # Sentiment Analysis
-Demo of sentiment analysis with scikit-learn
+Graphical demo of sentiment analysis with scikit-learn.
+
+
