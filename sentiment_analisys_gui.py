@@ -287,8 +287,9 @@ nameEntered5.grid(column=11, row=12)
 
 # Adding a Button
 #call the munge function
+#Todo corregir
 action = tk.Button(win, text="To .csv",
-                   command=lambda:postag_directory(
+                   command=lambda:munge(
                        input_directory1.get(),output_directory1.get()))
 action.grid(column=20, row=1)
 
