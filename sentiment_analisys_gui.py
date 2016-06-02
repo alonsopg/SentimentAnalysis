@@ -328,6 +328,3 @@ action4.grid(column=20, row=12)
 #======================
 win.mainloop()
 
-
-#Este ya jala sin pedos
-#Probar con
